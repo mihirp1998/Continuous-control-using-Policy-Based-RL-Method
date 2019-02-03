@@ -47,6 +47,7 @@ class Agent():
 
         # Noise process
         self.noise = OUNoise(action_size, random_seed)
+        self.t_step = 0
 
         # Replay memory
         self.memory = ReplayBuffer(action_size, BUFFER_SIZE, BATCH_SIZE, random_seed)
