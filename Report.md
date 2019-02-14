@@ -24,7 +24,7 @@ We have used batch normalizer for both actor and critic
 
 ## Results
 
-![results](graph.png)
+![results](newgraph.png)
 
 ```
 
