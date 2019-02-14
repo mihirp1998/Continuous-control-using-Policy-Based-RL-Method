@@ -34,11 +34,17 @@ conda install --file python3.yml
 ### File Info
 
 Reacher.app --> Unity enviornment for Mac devices
+
 checkpoint_actor.pth,checkpoint_critic.pth ----> Saved model
+
 ddpg_agent.py --> agent file for taking actions and steps
+
 model2.py --> models for actor and critic
+
 run.py --> file for training
+
 temp.ipynb --> Ipython notebok for training
+
 
 
 
