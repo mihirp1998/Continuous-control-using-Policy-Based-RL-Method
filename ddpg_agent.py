@@ -3,7 +3,6 @@ import random
 import copy
 from collections import namedtuple, deque
 
-#from model1 import Actor, Critic
 from model2 import Actor, Critic
 
 import torch
